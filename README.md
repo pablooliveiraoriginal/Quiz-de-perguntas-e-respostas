@@ -1,4 +1,4 @@
-# Quiz-de-perguntas-e-respostas
+# Quiz - NLW Expert
 
 ## tecnologias utilizadas
 -HTML
